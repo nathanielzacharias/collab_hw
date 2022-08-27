@@ -1,8 +1,6 @@
 # collab_hw
-<<<<<<< HEAD
 
-test. kendrick
-=======
+test. kendrick add this line
 Nat added this line
-## YuiXiong was here   
->>>>>>> 43904db8f7301008134b2760ccc140d4617afd1a
+
+## YuiXiong was here
