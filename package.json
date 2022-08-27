@@ -1,0 +1,23 @@
+{
+  "name": "collab_hw",
+  "version": "1.0.0",
+  "description": "test. kendrick add this line Nat added this line",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathanielzacharias/collab_hw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathanielzacharias/collab_hw/issues"
+  },
+  "homepage": "https://github.com/nathanielzacharias/collab_hw#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
